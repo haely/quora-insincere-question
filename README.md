@@ -1,7 +1,10 @@
 # quora-insincere-question
 Contributors:
+
 Haely Shah
+
 Michael von Pohle
+
 
 References:
 -Dataset Kaggle insincere question classifciation by Quora (October 2018)
